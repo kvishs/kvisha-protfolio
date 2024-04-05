@@ -166,36 +166,36 @@ digital boundaries.                    </p>
             <div class="row">
                 <div class="col-md-4">
                     <a href="#" class="portfolio-card">
-                        <img src={require("./imgs/folio-1.jpg")} class="portfolio-card-img"
+                        <img src={require("./imgs/port1.jpg")} class="portfolio-card-img"
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"/>
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h4>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>Web Development</h4>
+                                    <p class="font-weight-normal">Category: Marketing</p>
                             </span>
                         </span>
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="#" class="portfolio-card">
-                        <img class="portfolio-card-img img-responsive rounded" src={require("./imgs/folio-2.jpg")} 
+                        <img class="portfolio-card-img img-responsive rounded" src={require("./imgs/port2.jpg")} 
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"/>
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h4>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>Web Development</h4>
+                                    <p class="font-weight-normal">Category: Design</p>
                             </span>
                         </span>
                     </a>
                 </div>
                 <div class="col-md-4">
                     <a href="#" class="portfolio-card">
-                        <img class="portfolio-card-img img-responsive rounded" src={require("./imgs/folio-3.jpg")} 
+                        <img class="portfolio-card-img img-responsive rounded" src={require("./imgs/port5.jpg")} 
                             alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page"/>
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
-                                <h4>Web Designing</h4>
-                                    <p class="font-weight-normal">Category: Web Templates</p>
+                                <h4>Web Development</h4>
+                                    <p class="font-weight-normal">Category: Design</p>
                             </span>
                         </span>
                     </a>
